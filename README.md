@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @newcodelearner1234
-- 👀 I’m interested in the IT field.
+- 👋 Hi, I’m Avatansh Awasthi aka @newcodelearner1234
+- 👀 I’m interested in exploring new IT tech.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on any kind of projects.
-- 📫 How to reach me --> Email- awasthiavatansh@gmial.com or 
+- 💞️ I’m looking to collaborate on interesting projects using python java sql etc.
+- 📫 How to reach me --> Email- awasthiavatansh@gmail.com or 
 LinkedIn - avatansh-awasthi.
 
 <!---
